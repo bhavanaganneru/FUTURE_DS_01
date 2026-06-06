@@ -1,4 +1,4 @@
-# FUTURE_DS_01 - Business Sales Performance Dashboard
+ Business Sales Performance Dashboard
 
 ## Overview
 This project analyzes business sales performance using Power BI.
